@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "synthcraft:block/dummy_block" }
+  }
+}

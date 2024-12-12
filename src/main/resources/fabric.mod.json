@@ -3,15 +3,15 @@
 	"id": "synthcraft",
 	"version": "${version}",
 	"name": "Synthcraft",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Synths in minecraft? Yes, please!",
 	"authors": [
-		"Me!"
+		"iAmVoodoo"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/synthcraft/icon.png",
 	"environment": "*",
 	"entrypoints": {
