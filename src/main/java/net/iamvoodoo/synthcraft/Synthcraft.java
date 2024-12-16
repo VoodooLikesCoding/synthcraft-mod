@@ -3,6 +3,7 @@ package net.iamvoodoo.synthcraft;
 import net.fabricmc.api.ModInitializer;
 
 import net.iamvoodoo.synthcraft.block.ModBlocks;
+import net.iamvoodoo.synthcraft.block.entity.ModBlockEntityTypes;
 import net.iamvoodoo.synthcraft.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -20,6 +21,7 @@ public class Synthcraft implements ModInitializer {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModBlockEntityTypes.initialize();
 
 		LOGGER.info("Hello Fabric world!");
 	}

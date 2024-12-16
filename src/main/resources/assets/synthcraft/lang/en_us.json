@@ -1,4 +1,7 @@
 {
   "item.synthcraft.dummy_item": "Dummy Item",
-  "item.synthcraft.dummy_block": "Dummy Block"
+  "item.synthcraft.dummy_block": "Dummy Block",
+  "item.synthcraft.synth_rack": "Synth Rack",
+
+  "itemgroup.synthcraft_item_group": "Synthcraft"
 }
